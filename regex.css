@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(127, 255, 168); 
+    font-family: cursive;
+    text-align: center ;
+    font color: black;
+}
+    
+h1 {
+    text-align: center;
+    font-size:40px;
+    padding:20px;
+}
+
+h1:hover {
+    color: rgb(228, 213, 213);
+    background-color: blue;
+}
+
+.ok{
+     margin-left: auto
+     ;
+     margin-right: auto;
+}
